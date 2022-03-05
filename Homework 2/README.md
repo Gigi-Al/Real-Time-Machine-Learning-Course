@@ -1,4 +1,4 @@
-Problem 1 (40 pts):
+## Problem 1 (40 pts):
 
 1. Build a fully connected neural network for the housing dataset you did in previous homework. For training and validation use 80% (training) and 20% (validation) split. For this part, only use one hidden layer with 8 nodes. Train your network for 200 epochs. Report your training time, training loss, and evaluation accuracy after 200 epochs. Analyze your results in your report. Make sure to submit your code by providing the GitHub URL of your course repository for this course. (15pts)
 
@@ -6,7 +6,7 @@ Problem 1 (40 pts):
 
  
 
-Problem 2 (60 pts):
+## Problem 2 (60 pts):
 
 1. Create a fully connected Neural Network for all 10 classes in CIFAR-10 with only one hidden layer with the size of 512. Train your network for 300 epochs. Report your training time, training loss and evaluation accuracy after 200 epochs. Analyze your results in your report. Make sure to submit your code by providing the GitHub URL of your course repository for this course. (25pt)
 
